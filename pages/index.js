@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="ExoticHops.com" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Providing and preserving <code>unique, exotic, and flavorful hops</code> for generations to come.
         </p>
       </main>
 
