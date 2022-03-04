@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="https://github.com/exotichops/exotichops-com/blob/main/public/logo.svg" width="319" height="353" alt="ExoticHops.com" />
+        <img src="https://raw.githubusercontent.com/exotichops/exotichops-com/main/public/logo.svg" width="319" height="353" alt="ExoticHops.com" />
        
         <p className="description">
           Contact <a href="mailto:exotichopsco@gmail.com">exotichopsco@gmail.com</a> for information.
