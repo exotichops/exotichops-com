@@ -11,15 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="ExoticHops.com" />
+        <img src="https://github.com/exotichops/exotichops-com/blob/main/public/logo.svg" width="319" height="353" alt="ExoticHops.com" />
+       
         <p className="description">
-          Providing and preserving <code>unique, exotic, and flavorful hops</code> for generations to come.
-        </p>
-        <p className="description">
-          Contact us at <a href="mailto:exotichopsco@gmail.com">exotichopsco@gmail.com</a> for more information.
+          Contact <a href="mailto:exotichopsco@gmail.com">exotichopsco@gmail.com</a> for information.
         </p>
       </main>
-
       <Footer />
     </div>
   )
