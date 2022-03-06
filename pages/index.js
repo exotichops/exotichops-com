@@ -7,6 +7,9 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Exotic Hops, Inc.</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Hubballi&display=swap" rel="stylesheet">
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
