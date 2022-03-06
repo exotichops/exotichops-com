@@ -7,9 +7,9 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Exotic Hops, Inc.</title>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Hubballi&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Hubballi&display=swap" rel="stylesheet" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,8 +18,9 @@ export default function Home() {
        
         <p className="description">         
           Questions/Comments? Contact us below: 
+        </p>
     
-          <form name="contact" netlify>
+        <form name="contact" netlify>
           <p>
             <label>Name <input type="text" name="name" /></label>
           </p>
@@ -33,7 +34,6 @@ export default function Home() {
             <button type="submit">Send</button>
           </p>
         </form>
-        </p>
       </main>
       <Footer />
     </div>
