@@ -22,13 +22,13 @@ export default function Home() {
     
         <form name="contact" method="POST" data-netlify="true">
           <p>
-            <label>Your Name: <input type="text" name="name" /></label>   
+            <label>Your Name:<br /><input type="text" name="name" /></label>   
           </p>
           <p>
-            <label>Your Email: <input type="email" name="email" /></label>
+            <label>Your Email:<br /><input type="email" name="email" /></label>
           </p>          
           <p>
-            <label>Message: <textarea name="message"></textarea></label>
+            <label>Message:<br /><textarea name="message"></textarea></label>
           </p>
           <p>
             <button type="submit">Send</button>
